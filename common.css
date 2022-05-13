@@ -105,7 +105,7 @@
     width: 88px;
     height: 33px;
     font-size: 50%;
-    background: url(../img/O1CN01dBHimZ1RRxwmuPNMQ_!!6000000002109-2-tps-80-33.png);
+    background: url(img/O1CN01dBHimZ1RRxwmuPNMQ_!!6000000002109-2-tps-80-33.png);
     text-indent: -9999px;
     margin-left: 22px;
     margin-top: 10px;
@@ -176,7 +176,7 @@
     display: block;
     width: 143px;
     height: 59px;
-    background: url(../img/logo.png);
+    background: url(img/logo.png);
     text-indent: -9999px;
     overflow: hidden;
 }
@@ -303,7 +303,7 @@
     float: left;
     width: 20px;
     height: 20px;
-    background: url(../img/xiaotubiao.jpg) no-repeat -862px 0px;
+    background: url(img/xiaotubiao.jpg) no-repeat -862px 0px;
 
 }
 

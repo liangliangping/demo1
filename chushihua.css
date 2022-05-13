@@ -45,7 +45,7 @@ input {
 body {
     /* css3抗锯齿形 让文字更清晰 */
     -webkit-font-smoothing: antialiased;
-    background: 0 36px repeat-y url(../img/beijing.png);
+    background: 0 36px repeat-y url(img/beijing.png);
     font: 12px/1.5 tahoma, arial, 'Hiragino Sans GB', '\5b8b\4f53', sans-serif;
     background-size: cover;
     overflow-x: hidden;
